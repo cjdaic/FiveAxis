@@ -1,0 +1,5 @@
+export const SET_SCENE = 'setScene'
+export const SET_CURRENT_OBJ = 'setCurrentObj'
+export const UPDATE_OBJ = 'updateObj'
+export const DEL_CURRENT_OBJ = 'delCurrentObj'
+export const SET_PROCESSING = 'setProcessing'

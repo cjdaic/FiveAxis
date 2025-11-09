@@ -1,0 +1,10 @@
+.project{
+    position: absolute;
+    width: 100%;
+    overflow: auto;
+}
+
+.project-card{
+    margin: 5px;
+    margin-right: 10px;
+}

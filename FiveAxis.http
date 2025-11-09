@@ -1,0 +1,6 @@
+@FiveAxis_HostAddress = http://localhost:5241
+
+GET {{FiveAxis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

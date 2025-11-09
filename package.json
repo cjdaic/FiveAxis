@@ -1,0 +1,79 @@
+{
+  "name": "laser_PPA",
+  "version": "0.3.1",
+  "private": true,
+  "author": "DCJ",
+  "description": "laser_PPA",
+  "license": "MIT",
+  "main": "main.js",
+  "homepage": ".",
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@grpc/grpc-js": "^1.5.7",
+    "antd": "^4.18.9",
+    "google-protobuf": "^3.20.0-rc.1",
+    "grpc-web": "^1.3.1",
+    "grpc-web-client": "^0.7.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-scripts": "5.0.0",
+    "redux": "^4.1.2",
+    "three": "^0.138.0",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "electron-forge start",
+    "rstart": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject",
+    "estart": "electron .",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "lstart": ".\\node_modules\\electron\\dist\\electron.exe ."
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63",
+    "@electron-forge/maker-deb": "^6.0.0-beta.63",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.63",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.63",
+    "@electron-forge/maker-zip": "^6.0.0-beta.63",
+    "electron": "^17.1.0",
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "asar": true,
+        "ignore": "node_modules/.cache"
+      },
+      "makers": [
+        {
+          "name": "@electron-forge/maker-zip",
+          "config": {
+            "name": "laser_PPA"
+          }
+        }
+      ]
+    }
+  }
+}

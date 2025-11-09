@@ -1,0 +1,22 @@
+.property-item{
+    margin: 20px;
+    white-space: nowrap;
+}
+
+.resize-bar{
+    position:absolute;
+    left: 0px;
+    height: 100vh;
+    width: 3px;
+    cursor: w-resize;
+    background-color: rgba(0, 0, 0, 0.514);
+    user-select: none;
+}
+
+.begin-button{
+    float: right;
+}
+
+.panel{
+    overflow: hidden;
+}

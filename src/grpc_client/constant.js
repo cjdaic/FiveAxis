@@ -1,0 +1,7 @@
+module.exports.PROCESS_LINE = 'ProcessLine'
+module.exports.PROCESS_CIRCLE = 'ProcessCircle'
+module.exports.SET_LASER_FREQ = 'SetLaserFreq'
+module.exports.PROCESS_RECTANGLE = 'RrocessRectangle'
+module.exports.PROCESS_RECTANGLE3D = 'RrocessRectangle3D'
+module.exports.PROCESS_ELLIPSE = 'RrocessEllipse'
+module.exports.SET_DELAY = 'SetDelay'

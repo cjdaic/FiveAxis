@@ -1,0 +1,48 @@
+body{
+  background-color:rgb(255, 255, 255);
+}
+.layout{
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.layout-property{
+  height: 100%;
+  width: 200px;
+  text-align:center;
+  background: whitesmoke;
+  overflow: auto;
+}
+
+.layout-project{
+  background: whitesmoke;
+  height: 100%;
+  overflow: auto;
+}
+
+.layout-scene{
+  border: 10px;
+}
+.layout-header{
+  background-color: white;
+}
+.drag-bar-left{
+  position: absolute;
+  height: 100%;
+  user-select: none;
+  cursor: w-resize;
+  width: 5px;
+  background-color: rgba(0, 0, 0, 0.24);
+  left: 0;
+}
+
+.drag-bar-right{
+  position: absolute;
+  height: 100%;
+  user-select: none;
+  cursor: w-resize;
+  width: 5px;
+  background-color: rgba(0, 0, 0, 0.24);
+  right: 0;
+}
