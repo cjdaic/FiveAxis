@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\FiveAxis\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|e:\\fiveaxis\\build\\static\\js\\main.7b9d5c19.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|solutionrelative:build\\static\\js\\main.7b9d5c19.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|e:\\fiveaxis\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|solutionrelative:main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.7b9d5c19.js",
+              "DocumentMoniker": "E:\\FiveAxis\\build\\static\\js\\main.7b9d5c19.js",
+              "RelativeDocumentMoniker": "build\\static\\js\\main.7b9d5c19.js",
+              "ToolTip": "E:\\FiveAxis\\build\\static\\js\\main.7b9d5c19.js",
+              "RelativeToolTip": "build\\static\\js\\main.7b9d5c19.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-07T07:45:17.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.js",
+              "DocumentMoniker": "E:\\FiveAxis\\main.js",
+              "RelativeDocumentMoniker": "main.js",
+              "ToolTip": "E:\\FiveAxis\\main.js",
+              "RelativeToolTip": "main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-07T07:45:01.961Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

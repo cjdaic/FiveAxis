@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\FiveAxis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FiveAxis\\build\\static\\js\\main.7b9d5c19.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\static\\js\\main.7b9d5c19.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|e:\\fiveaxis\\services\\fiveaxisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|solutionrelative:services\\fiveaxisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FiveAxis\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|e:\\fiveaxis\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|solutionrelative:main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.7b9d5c19.js",
-              "DocumentMoniker": "E:\\FiveAxis\\build\\static\\js\\main.7b9d5c19.js",
-              "RelativeDocumentMoniker": "build\\static\\js\\main.7b9d5c19.js",
-              "ToolTip": "E:\\FiveAxis\\build\\static\\js\\main.7b9d5c19.js",
-              "RelativeToolTip": "build\\static\\js\\main.7b9d5c19.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-07T07:45:17.403Z",
+              "Title": "FiveAxisService.cs",
+              "DocumentMoniker": "E:\\FiveAxis\\Services\\FiveAxisService.cs",
+              "RelativeDocumentMoniker": "Services\\FiveAxisService.cs",
+              "ToolTip": "E:\\FiveAxis\\Services\\FiveAxisService.cs",
+              "RelativeToolTip": "Services\\FiveAxisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:22:52.988Z",
               "EditorCaption": ""
             },
             {
@@ -43,8 +43,7 @@
               "RelativeToolTip": "main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-07T07:45:01.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T07:45:01.961Z"
             }
           ]
         }

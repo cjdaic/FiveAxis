@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiveAxis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1deeec44353679a56de5723241d1e363fe981c90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27cc20ebf9bef4783ea1c9c3bf81779a0dd7e065")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiveAxis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiveAxis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

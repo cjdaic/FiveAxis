@@ -1,20 +1,20 @@
 import React, { useRef, useEffect, useState, useCallback } from 'react';
 import * as THREE from 'three';
-// 导入 Three.js 扩展模块 (使用现代的 addons 路径)
-import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js'
 import { TransformControls } from 'three/addons/controls/TransformControls.js';
 import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
 import { STLLoader } from 'three/addons/loaders/STLLoader.js';
 
-// 主 3D 渲染组件
+
 const ThreeDViewer = () => {
-  // Refs 用于引用 DOM 元素和 Three.js 对象
+
   const mountRef = useRef(null);
   const modelRef = useRef(null);
-  const [status, setStatus] = useState("请加载 OBJ 或 STL 模型文件...");
+  const [status, setStatus] = useState(" OBJ/STL Files...");
   const [gizmoMode, setGizmoMode] = useState('translate');
 
-  // Three.js 核心对象
+
   const scene = useRef(null);
   const camera = useRef(null);
   const renderer = useRef(null);
@@ -23,23 +23,23 @@ const ThreeDViewer = () => {
   const clippingPlane = useRef(null);
   const gizmoPlane = useRef(null);
 
-  // --- 初始化和设置 Three.js 场景 ---
+  //初始化场景
   useEffect(() => {
-    // 1. 场景设置
-    scene.current = new THREE.Scene();
-    scene.current.background = new THREE.Color(0x222222); // 暗色背景
 
-    // 2. 摄像机
+    scene.current = new THREE.Scene();
+    scene.current.background = new THREE.Color(0x222222); // 背景
+
+
     const width = mountRef.current.clientWidth;
     const height = mountRef.current.clientHeight;
     camera.current = new THREE.PerspectiveCamera(75, width / height, 0.1, 1000);
     camera.current.position.set(5, 5, 5);
 
-    // 3. 渲染器
+
     renderer.current = new THREE.WebGLRenderer({ antialias: true });
     renderer.current.setSize(width, height);
-    renderer.current.localClippingEnabled = true; // 启用本地剪裁
-    renderer.current.shadowMap.enabled = true; // 启用阴影
+    renderer.current.localClippingEnabled = true; // 剪裁
+    renderer.current.shadowMap.enabled = true; // 阴影
     mountRef.current.appendChild(renderer.current.domElement);
 
     // 4. 控制器 (OrbitControls 用于场景交互)
@@ -372,3 +372,6 @@ const ThreeDViewer = () => {
             `}</style>
     </div>
   );
+};
+
+export default ThreeDViewer
