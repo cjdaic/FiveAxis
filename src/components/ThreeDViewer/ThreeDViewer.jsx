@@ -95,11 +95,11 @@ const ThreeDViewer = () => {
     // 1. 可视化 Gizmo 平面 (半透明网格)
     const planeGeometry = new THREE.PlaneGeometry(10, 10);
     const planeMaterial = new THREE.MeshBasicMaterial({
-      color: 0x00ffff,
+      color: 0x0bffff,
       side: THREE.DoubleSide,
       transparent: true,
       opacity: 0.2,
-      clippingPlanes: [], // Gizmo 自身不被剪裁
+      clippingPlanes: [],
       clipShadows: true,
     });
     gizmoPlane.current = new THREE.Mesh(planeGeometry, planeMaterial);

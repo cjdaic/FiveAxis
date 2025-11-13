@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiveAxis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f491c35e6af65d6d57c4c76790f3c14f5c3ad7fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiveAxis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiveAxis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

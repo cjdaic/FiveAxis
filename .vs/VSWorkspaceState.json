@@ -3,13 +3,12 @@
     "",
     "\\bin",
     "\\build",
+    "\\laser_app_server_csharp",
     "\\obj",
-    "\\Processing",
     "\\Properties",
     "\\public",
-    "\\Services",
     "\\src"
   ],
-  "SelectedNode": "\\build",
+  "SelectedNode": "\\FiveAxis.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\FiveAxis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|e:\\fiveaxis\\services\\fiveaxisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|solutionrelative:services\\fiveaxisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|e:\\fiveaxis\\laser_app_server_csharp\\services\\fiveaxisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|solutionrelative:laser_app_server_csharp\\services\\fiveaxisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|e:\\fiveaxis\\laser_app_server_csharp\\obj\\release\\net9.0\\fiveaxis.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|solutionrelative:laser_app_server_csharp\\obj\\release\\net9.0\\fiveaxis.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|e:\\fiveaxis\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{2F48DD76-14A6-7999-2074-A05F45FCBAF8}|FiveAxis.csproj|solutionrelative:main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FiveAxis\\FiveAxis.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FiveAxis.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FiveAxisService.cs",
-              "DocumentMoniker": "E:\\FiveAxis\\Services\\FiveAxisService.cs",
-              "RelativeDocumentMoniker": "Services\\FiveAxisService.cs",
-              "ToolTip": "E:\\FiveAxis\\Services\\FiveAxisService.cs",
-              "RelativeToolTip": "Services\\FiveAxisService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FiveAxis.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\FiveAxis\\laser_app_server_csharp\\obj\\Release\\net9.0\\FiveAxis.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "laser_app_server_csharp\\obj\\Release\\net9.0\\FiveAxis.AssemblyInfo.cs",
+              "ToolTip": "E:\\FiveAxis\\laser_app_server_csharp\\obj\\Release\\net9.0\\FiveAxis.AssemblyInfo.cs",
+              "RelativeToolTip": "laser_app_server_csharp\\obj\\Release\\net9.0\\FiveAxis.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T22:22:52.988Z",
+              "WhenOpened": "2025-11-13T07:02:39.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "FiveAxisService.cs",
+              "DocumentMoniker": "E:\\FiveAxis\\laser_app_server_csharp\\Services\\FiveAxisService.cs",
+              "RelativeDocumentMoniker": "laser_app_server_csharp\\Services\\FiveAxisService.cs",
+              "ToolTip": "E:\\FiveAxis\\laser_app_server_csharp\\Services\\FiveAxisService.cs",
+              "RelativeToolTip": "laser_app_server_csharp\\Services\\FiveAxisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:02:37.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FiveAxis.csproj.user",
+              "DocumentMoniker": "E:\\FiveAxis\\FiveAxis.csproj.user",
+              "RelativeDocumentMoniker": "FiveAxis.csproj.user",
+              "ToolTip": "E:\\FiveAxis\\FiveAxis.csproj.user",
+              "RelativeToolTip": "FiveAxis.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-11-13T06:43:21.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.js",
               "DocumentMoniker": "E:\\FiveAxis\\main.js",
               "RelativeDocumentMoniker": "main.js",
@@ -43,7 +76,8 @@
               "RelativeToolTip": "main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-07T07:45:01.961Z"
+              "WhenOpened": "2025-11-07T07:45:01.961Z",
+              "EditorCaption": ""
             }
           ]
         }
