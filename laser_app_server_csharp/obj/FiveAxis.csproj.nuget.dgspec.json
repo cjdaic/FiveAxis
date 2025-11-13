@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FiveAxis\\FiveAxis.csproj": {}
+    "E:\\FiveAxis\\laser_app_server_csharp\\FiveAxis.csproj": {}
   },
   "projects": {
-    "E:\\FiveAxis\\FiveAxis.csproj": {
+    "E:\\FiveAxis\\laser_app_server_csharp\\FiveAxis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FiveAxis\\FiveAxis.csproj",
+        "projectUniqueName": "E:\\FiveAxis\\laser_app_server_csharp\\FiveAxis.csproj",
         "projectName": "FiveAxis",
-        "projectPath": "E:\\FiveAxis\\FiveAxis.csproj",
+        "projectPath": "E:\\FiveAxis\\laser_app_server_csharp\\FiveAxis.csproj",
         "packagesPath": "C:\\Users\\mingshen\\.nuget\\packages\\",
-        "outputPath": "E:\\FiveAxis\\obj\\",
+        "outputPath": "E:\\FiveAxis\\laser_app_server_csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,19 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.30.2, )"
+            },
             "Grpc.AspNetCore": {
               "target": "Package",
               "version": "[2.71.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.76.0, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",

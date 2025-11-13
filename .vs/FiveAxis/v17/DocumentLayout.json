@@ -38,8 +38,7 @@
               "RelativeToolTip": "laser_app_server_csharp\\obj\\Release\\net9.0\\FiveAxis.AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:02:39.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T07:02:39.385Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "laser_app_server_csharp\\Services\\FiveAxisService.cs",
               "ToolTip": "E:\\FiveAxis\\laser_app_server_csharp\\Services\\FiveAxisService.cs",
               "RelativeToolTip": "laser_app_server_csharp\\Services\\FiveAxisService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAvwGsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T07:02:37.215Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-07T07:45:01.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T07:45:01.961Z"
             }
           ]
         }

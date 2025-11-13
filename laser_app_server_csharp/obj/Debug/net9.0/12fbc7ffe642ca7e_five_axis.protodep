@@ -1,0 +1,2 @@
+obj\Debug\net9.0\protos/FiveAxis.cs \
+obj\Debug\net9.0\protos/FiveAxisGrpc.cs: protos/five_axis.proto

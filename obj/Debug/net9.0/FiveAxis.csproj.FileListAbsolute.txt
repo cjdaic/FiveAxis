@@ -1,9 +1,0 @@
-E:\FiveAxis\obj\Debug\net9.0\FiveAxis.csproj.AssemblyReference.cache
-E:\FiveAxis\obj\Debug\net9.0\rpswa.dswa.cache.json
-E:\FiveAxis\obj\Debug\net9.0\FiveAxis.GeneratedMSBuildEditorConfig.editorconfig
-E:\FiveAxis\obj\Debug\net9.0\FiveAxis.AssemblyInfoInputs.cache
-E:\FiveAxis\obj\Debug\net9.0\FiveAxis.AssemblyInfo.cs
-E:\FiveAxis\obj\Debug\net9.0\FiveAxis.csproj.CoreCompileInputs.cache
-E:\FiveAxis\obj\Debug\net9.0\FiveAxis.MvcApplicationPartsAssemblyInfo.cs
-E:\FiveAxis\obj\Debug\net9.0\FiveAxis.MvcApplicationPartsAssemblyInfo.cache
-E:\FiveAxis\obj\Debug\net9.0\FiveAxis.sourcelink.json
